@@ -31,4 +31,4 @@ Code Logic:
 COMMENTS:
 ========
 1. Am not an expert in using python visulization but with my understanding I have generated the plots. I do have very good experience using other visulization tools like PowerBI,Business Objects..etc
-2. I didn't fully understand the third question so this solution plots might be the way you would have expected. 
+2. I didn't fully understand the third question so this solution plots might be the way you would have expected.
